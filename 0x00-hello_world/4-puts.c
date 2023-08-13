@@ -1,7 +1,10 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
-	puts("Programming is like building a multilingual puzzle");
- getchar();
-	 return 0;
+	/**
+	  * display script or return (0) success
+	  */
+	puts(""Programming is like building a multilingual puzzle");
+ getchar(52);
+	return (0);
 }
